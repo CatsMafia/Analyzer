@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+AnalyzerVENV
+db.sqlite3
+.DS_Store
+.idea
